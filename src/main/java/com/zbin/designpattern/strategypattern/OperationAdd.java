@@ -10,7 +10,7 @@ package com.zbin.designpattern.strategypattern;
 public class OperationAdd implements Strategy {
 
   @Override
-  public int doOperaion(int var1, int var2) {
+  public int doOperation(int var1, int var2) {
     return var1 + var2;
   }
 }

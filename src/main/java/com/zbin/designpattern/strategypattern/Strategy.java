@@ -9,6 +9,6 @@ package com.zbin.designpattern.strategypattern;
 
 public interface Strategy {
 
-  int doOperaion(int var1, int var2);
+  int doOperation(int var1, int var2);
 
 }
