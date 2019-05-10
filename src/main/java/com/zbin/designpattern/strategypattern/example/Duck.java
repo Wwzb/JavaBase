@@ -1,7 +1,7 @@
-package com.zbin.designpattern.strategypattern;
+package com.zbin.designpattern.strategypattern.example;
 
 /**
- * com.zbin.designpattern.strategypattern.Duck
+ * com.zbin.designpattern.strategypattern.example.Duck
  *
  * @author Zbin
  * @date 2019/05/08
